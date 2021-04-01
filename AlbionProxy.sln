@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbionProxy", "AlbionProxy\AlbionProxy.csproj", "{BED60D13-BD4A-4F8D-AABB-B81522B37FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED60D13-BD4A-4F8D-AABB-B81522B37FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED60D13-BD4A-4F8D-AABB-B81522B37FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED60D13-BD4A-4F8D-AABB-B81522B37FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED60D13-BD4A-4F8D-AABB-B81522B37FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7ED00F1-E099-4D04-B40D-9BDC6BFD99D1}
+	EndGlobalSection
+EndGlobal
